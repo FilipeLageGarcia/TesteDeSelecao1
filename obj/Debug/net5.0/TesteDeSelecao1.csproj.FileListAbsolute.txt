@@ -1,0 +1,16 @@
+H:\Workspace\TesteDeSelecao1\bin\Debug\net5.0\TesteDeSelecao1.exe
+H:\Workspace\TesteDeSelecao1\bin\Debug\net5.0\TesteDeSelecao1.deps.json
+H:\Workspace\TesteDeSelecao1\bin\Debug\net5.0\TesteDeSelecao1.runtimeconfig.json
+H:\Workspace\TesteDeSelecao1\bin\Debug\net5.0\TesteDeSelecao1.runtimeconfig.dev.json
+H:\Workspace\TesteDeSelecao1\bin\Debug\net5.0\TesteDeSelecao1.dll
+H:\Workspace\TesteDeSelecao1\bin\Debug\net5.0\ref\TesteDeSelecao1.dll
+H:\Workspace\TesteDeSelecao1\bin\Debug\net5.0\TesteDeSelecao1.pdb
+H:\Workspace\TesteDeSelecao1\obj\Debug\net5.0\TesteDeSelecao1.csprojAssemblyReference.cache
+H:\Workspace\TesteDeSelecao1\obj\Debug\net5.0\TesteDeSelecao1.GeneratedMSBuildEditorConfig.editorconfig
+H:\Workspace\TesteDeSelecao1\obj\Debug\net5.0\TesteDeSelecao1.AssemblyInfoInputs.cache
+H:\Workspace\TesteDeSelecao1\obj\Debug\net5.0\TesteDeSelecao1.AssemblyInfo.cs
+H:\Workspace\TesteDeSelecao1\obj\Debug\net5.0\TesteDeSelecao1.csproj.CoreCompileInputs.cache
+H:\Workspace\TesteDeSelecao1\obj\Debug\net5.0\TesteDeSelecao1.dll
+H:\Workspace\TesteDeSelecao1\obj\Debug\net5.0\ref\TesteDeSelecao1.dll
+H:\Workspace\TesteDeSelecao1\obj\Debug\net5.0\TesteDeSelecao1.pdb
+H:\Workspace\TesteDeSelecao1\obj\Debug\net5.0\TesteDeSelecao1.genruntimeconfig.cache
